@@ -1,0 +1,16 @@
+{
+  "name": "영어 내신 관리",
+  "short_name": "내신 관리",
+  "description": "학생별 영어 내신 스케줄링 및 범위 관리 앱",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f2f2f7",
+  "theme_color": "#5E5CE6",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
